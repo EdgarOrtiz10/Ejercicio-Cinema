@@ -1,0 +1,14 @@
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\bin\Debug\net6.0\CinemaApp.Infrastructure.deps.json
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\bin\Debug\net6.0\CinemaApp.Infrastructure.runtimeconfig.json
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\bin\Debug\net6.0\CinemaApp.Infrastructure.dll
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\bin\Debug\net6.0\CinemaApp.Infrastructure.pdb
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.dll
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\refint\CinemaApp.Infrastructure.dll
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.pdb
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\CinemaApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Infrastructure\obj\Debug\net6.0\ref\CinemaApp.Infrastructure.dll

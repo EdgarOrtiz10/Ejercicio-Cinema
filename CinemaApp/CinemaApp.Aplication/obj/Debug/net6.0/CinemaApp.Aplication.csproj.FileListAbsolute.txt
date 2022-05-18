@@ -1,0 +1,12 @@
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\bin\Debug\net6.0\CinemaApp.Aplication.deps.json
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\bin\Debug\net6.0\CinemaApp.Aplication.dll
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\bin\Debug\net6.0\CinemaApp.Aplication.pdb
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\CinemaApp.Aplication.csproj.AssemblyReference.cache
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\CinemaApp.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\CinemaApp.Aplication.AssemblyInfoInputs.cache
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\CinemaApp.Aplication.AssemblyInfo.cs
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\CinemaApp.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\CinemaApp.Aplication.dll
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\refint\CinemaApp.Aplication.dll
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\CinemaApp.Aplication.pdb
+C:\Users\Edgar O\Documents\CURSO DE PROGRAMACIÓN INTENSIVO\MATERIAS\WEB 1\Ejercicio Cinema\CinemaApp\CinemaApp.Aplication\obj\Debug\net6.0\ref\CinemaApp.Aplication.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VMC6ULh/caPzGKF8obLcmjU2OYCO2IuVpn9RkMZcqyM=",
+  "Source": "CinemaApp.Api",
+  "BasePath": "_content/CinemaApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
